@@ -1,3 +1,4 @@
+# I just wrote this here 
 import pyautogui as pg
 from time import time
 import numpy as np
